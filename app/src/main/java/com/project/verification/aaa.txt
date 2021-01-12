@@ -1,0 +1,40 @@
+
+{
+	[
+		{
+			"id":"1"
+			"cli_name":"TCS",
+			"address":"PUNE",
+			"employees": [
+				{
+					"id":"1",
+					"name":"Sunil",
+					"age":"24",
+					"salary":"25000"
+				},{
+					"id":"2",
+					"name":"Sagar",
+					"age":"24",
+					"salary":"27000"
+				},
+			]
+		},{
+			"id":"2"
+			"cli_name":"Wipro",
+			"address":"Mombai",
+			"employees": [
+				{
+					"id":"1",
+					"name":"Akash",
+					"age":"23",
+					"salary":"20000"
+				},{
+					"id":"2",
+					"name":"Abhishek",
+					"age":"24",
+					"salary":"22000"
+				},
+			]
+		},
+	]
+}

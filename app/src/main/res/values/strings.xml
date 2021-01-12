@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">OtpSendDemo</string>
+    <string name="we_will_send_you_an_one_time_password_on_this_mobile_number">We will send you an One Time Password on this mobile number</string>
+    <string name="otp_verification">OTP VERIFICATION</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="_91">+91-</string>
+    <string name="_4581255587">4581255587</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="enter_the_otp_sent_to">Enter the OTP sent to</string>
+    <string name="didn_t_receive_the_otp">Didn\'t receive the OTP?</string>
+    <string name="resend_otp">RESEND OTP</string>
+    <string name="verify">Verify</string>
+
+
+    <string name="name">Enter the Valid Name</string>
+    <string name="addres">Enter the Address</string>
+    <string name="city">Enter the City Name</string>
+    <string name="pin">Enter the Pin</string>
+    <string name="phone">Enter the Valid Mobile Number</string>
+    <string name="mail">Enter the valid mail</string>
+    <string name="pass">Capital and Small small letter  symbol num</string>
+
+</resources>
